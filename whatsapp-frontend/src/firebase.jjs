@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyCmv2-fSK-8tv8B5nkFcFDAUo_qIRm29PU",
+  authDomain: "whatsapp-mern-550ee.firebaseapp.com",
+  projectId: "whatsapp-mern-550ee",
+  storageBucket: "whatsapp-mern-550ee.appspot.com",
+  messagingSenderId: "474596533694",
+  appId: "1:474596533694:web:fac57828018ace8b8d05ef"
+};
